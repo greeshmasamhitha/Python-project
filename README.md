@@ -26,8 +26,7 @@ Welcome to the Family Expense Tracker - a simple Python project designed to help
 - ✨[Features](#features)
 - 🛠️[How to Use](#how-to-use)
 - ⚙️[Installation](#installation)
-- 🙌[How to Contribute](#how-to-contribute)
-- 📝[License](#license)
+
 
 ## Introduction
 
@@ -123,20 +122,7 @@ The application will start and open in your browser at:
 http://localhost:8501
 ```
 
-## How to Contribute
 
-- If you wish to [contribute](CONTRIBUTING.md) in any way, feel free to get involved. You can suggest improvements or provide support and encouragement by [opening an issue](https://github.com/sree-hari-s/Expense-Tracker/issues).
 
-## Contributors
 
-Thank you all for, your contributions. Your contributions hold immense value for our project, and we are genuinely thankful for your valuable support. Your unwavering commitment and hard work are truly commendable.
 
-<p align="center">
-  <a href="https://github.com/sree-hari-s/Expense-Tracker/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=sree-hari-s/Expense-Tracker" alt="Contributors" />
-  </a>
-</p>
-
-## License
-
-This project is licensed under the terms of the [MIT License](LICENSE).
